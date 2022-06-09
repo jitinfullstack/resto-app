@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://resto-app.jitinrathore.com/
+https://resto-app.jitinrathore.com
 
 ### Home Page
 
